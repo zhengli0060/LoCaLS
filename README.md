@@ -12,7 +12,7 @@ LoCaLS is designed for target-specific causal discovery tasks, where only the lo
 
 This repository provides two versions of LoCaLS:
 
-- **Data-driven LoCaLS** for continuous observational data using Fisher's Z tests.
+- **Data-driven LoCaLS** for observational data using Fisher's Z tests.
 - **Oracle LoCaLS** for simulation studies using d-separation in a known DAG.
 
 ## ⚙️ Environment
@@ -128,7 +128,7 @@ See [example.ipynb](example.ipynb) for a walkthrough of both the data-driven and
 
 ## 📬 Contact
 
-For questions or suggestions, please contact:
+For questions or suggestions, please feel free to contact:
 
 `zhengli0060(at)gmail(dot)com`
 
