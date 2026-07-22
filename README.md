@@ -122,7 +122,9 @@ See [example.ipynb](example.ipynb) for a walkthrough of both the data-driven and
 ```bibtex
 @article{li2026locals,
   title  = {Local Causal Structure Learning in the Presence of Latent Variables and Selection Bias},
-  year   = {2026}
+  author={Li, Zheng and Zhang, Hao and Wang, Ruxin and Zhang, Kun and Xie, Feng},
+  year={2026}
+  }
 }
 ```
 
